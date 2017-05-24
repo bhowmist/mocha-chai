@@ -1,0 +1,14 @@
+{
+  "name": "colaberry",
+  "version": "1.0.0",
+  "description": "colaberry test project",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jit",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
